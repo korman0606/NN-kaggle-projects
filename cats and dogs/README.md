@@ -4,7 +4,7 @@
 Модель достигает 100% accuracy на тестовой выборке.
 
 ## 📊 Результаты
-![Results](outputs and images/loss_plot.png)
+![Training loss](outputs and images/results.png)
 
 ## 🚀 Как запустить
 
