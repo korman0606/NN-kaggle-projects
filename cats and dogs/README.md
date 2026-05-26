@@ -1,6 +1,6 @@
 # Cats vs Dogs Classifier – 100% Accuracy on Kaggle
 
-## 📄 Описание соревнования и данных (c сайта kaggle !ссылка[https://www.kaggle.com/competitions/ninja-neural-nets-dogs-vs-cats/overview])
+## 📄 Описание соревнования и данных (c сайта kaggle ![ссылка](https://www.kaggle.com/competitions/ninja-neural-nets-dogs-vs-cats/overview))
 
 **🥷 Detailed Description**
 Welcome to the 💥Ninja Neural Nets🥷 – Dogs vs Cats Challenge.
@@ -40,7 +40,7 @@ Learn deep learning together — submit a working notebook and the CSV output to
 
 ## ✅ Описание решения
 1. В качестве архитектуры модели была использована предобученная *ResNet50* и *трансферное обучение*
-2. Модель показала наилучший результат при 7 эпохах обучения - ![best_model](best_model.pth)
+2. Модель показала наилучший результат при 7 эпохах обучения
 
 ## 📊 Результаты
 ![Training loss](outputs/results.png)
