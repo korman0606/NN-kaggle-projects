@@ -1,6 +1,6 @@
 # Cats vs Dogs Classifier – 100% Accuracy on Kaggle
 
-## 📄 Описание соревнования и данных (c сайта kaggle ![ссылка](https://www.kaggle.com/competitions/ninja-neural-nets-dogs-vs-cats))
+## 📄 Описание соревнования и данных (c сайта kaggle [ссылка](https://www.kaggle.com/competitions/ninja-neural-nets-dogs-vs-cats))
 
 **🥷 Detailed Description**
 Welcome to the 💥Ninja Neural Nets🥷 – Dogs vs Cats Challenge.
