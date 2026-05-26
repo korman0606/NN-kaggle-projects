@@ -1,7 +1,7 @@
 # Cats vs Dogs Classifier – 100% Accuracy on Kaggle
 
 **Классификация изображений кошек и собак** с использованием Transfer Learning (ResNet50).  
-Модель достигает 100% accuracy на валидационной выборке (на данном датасете).
+Модель достигает 100% accuracy на тестовой выборке.
 
 ## 📊 Результаты
 ![Training loss](outputs/loss_plot.png)
