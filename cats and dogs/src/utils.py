@@ -26,5 +26,5 @@ def plot_losses(train_losses, val_losses, save_path=None):
     plt.legend()
     plt.grid(True)
     if save_path:
-        plt.savefig(save_path, dpi=150, bbox_inches='tight')
+        plt.savefig(save_path, dpi=300, bbox_inches='tight')
     plt.show()
