@@ -4,7 +4,7 @@
 Модель достигает 100% accuracy на тестовой выборке.
 
 ## 📊 Результаты
-![Results](cats and dogs/outputs and images/results.png)
+![Results](outputs and images/loss_plot.png)
 
 ## 🚀 Как запустить
 
