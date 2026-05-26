@@ -9,4 +9,19 @@
 ## 🚀 Как запустить
 
 1. **Скачать данные** с Kaggle: [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats/data)  
-   Распаковать в папку `data/raw/` так, чтобы было:
+   Распаковать в папку `data/` так, чтобы было:
+data/
+├── train/
+│ ├── cats/
+│ └── dogs/
+└── test/
+
+2. **Установить зависимости**:
+```bash
+pip install -r requirements.txt
+
+3. **Обучить модель**:
+python -m src.train
+
+4. **Сделать предсказания для теста**:
+python -m src.predict
