@@ -1,5 +1,6 @@
 # Cats vs Dogs Classifier – 100% Accuracy on Kaggle
 
+
 ## 📄 Описание соревнования и данных (c сайта kaggle [ссылка](https://www.kaggle.com/competitions/ninja-neural-nets-dogs-vs-cats))
 
 **🥷 Detailed Description**
@@ -35,12 +36,11 @@ CSV File: upload your predictions on the Submissions page.
 💡 Goal
 Learn deep learning together — submit a working notebook and the CSV output to climb the leaderboard with ninja precision.
 
-**Классификация изображений кошек и собак** с использованием Transfer Learning (ResNet50).  
-Модель достигает 100% accuracy на тестовой выборке.
 
 ## ✅ Описание решения
 1. В качестве архитектуры модели была использована предобученная *ResNet50* и *трансферное обучение*
 2. Модель показала наилучший результат при 7 эпохах обучения
+
 
 ## 📊 Результаты
 ![Training loss](outputs/results.png)
