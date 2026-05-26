@@ -8,7 +8,7 @@
 
 ## 🚀 Как запустить
 
-1. **Скачать данные** с Kaggle: [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats/data)  
+1. **Скачать данные** с Kaggle: [Dogs vs Cats]([https://www.kaggle.com/c/dogs-vs-cats/data](https://www.kaggle.com/competitions/ninja-neural-nets-dogs-vs-cats))  
    Распаковать в папку `data/` так, чтобы было:
 data/
 ├── train/
