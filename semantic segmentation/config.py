@@ -1,0 +1,30 @@
+# Пути к данным 
+DATA_ROOT = "data" 
+TRAIN_IMAGES_DIR = f"{DATA_ROOT}/train_images"
+TRAIN_MASKS_DIR = f"{DATA_ROOT}/train_masks"
+TEST_IMAGES_DIR = f"{DATA_ROOT}/test_images"
+
+# Гиперпараметры
+BATCH_SIZE = 32
+NUM_WORKERS = 2
+NUM_CLASSES = 5
+EPOCHS = 35
+LEARNING_RATE_DECODER = 1e-3
+LEARNING_RATE_ENCODER = 1e-5
+TRAIN_SPLIT = 0.9
+RANDOM_SEED = 42
+
+# Аугментации
+FLIP_PROB = 0.5
+ROTATE90_PROB = 0.3
+BRIGHTNESS_CONTRAST_LIMIT = 0.15
+BRIGHTNESS_CONTRAST_PROB = 0.3
+GAUSS_NOISE_STD_RANGE = (0.04, 0.2)
+GAUSS_NOISE_PROB = 0.2
+
+# Нормализация (ImageNet)
+NORMALIZE_MEAN = [0.485, 0.456, 0.406]
+NORMALIZE_STD = [0.229, 0.224, 0.225]
+
+# Частоты классов (дисбаланс) – фон, здания, деревья, вода, дороги
+CLASS_FREQ = [0.278, 0.129, 0.110, 0.125, 0.358]
