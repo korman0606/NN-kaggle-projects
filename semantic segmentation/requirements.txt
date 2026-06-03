@@ -1,1 +1,9 @@
-
+torch>=2.0.0
+torchvision>=0.15.0
+albumentations>=1.4.0
+numpy
+pandas
+matplotlib
+tqdm
+opencv-python
+pillow
