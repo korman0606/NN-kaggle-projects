@@ -1,5 +1,5 @@
 Структура
-credit_scoring/
+credit_scoring/  
 ├── src/      
 >>├── app/      
     ├── antifraud/ # модуль антифрода      
