@@ -1,3 +1,15 @@
+Структура
+credit_scoring/
+├── src/
+│ ├── app/
+│ │ ├── antifraud/ # модуль антифрода
+│ │ ├── core/ # ядро приложения
+│ │ ├── modelling/ # обучение моделей
+│ │ └── scoring/ # скоринг
+│ └── config/ # конфигурации
+├── CONTRIBUTING.md # правила контрибьютинга
+└── README.md # этот файл
+
 # Cats vs Dogs Classifier – 100% Accuracy on Kaggle
 
 
