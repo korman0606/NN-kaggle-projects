@@ -1,7 +1,7 @@
 Структура
 credit_scoring/
 ├── src/      
-  ├── app/      
+>>├── app/      
     ├── antifraud/ # модуль антифрода      
     ├── core/ # скрипты ядра      
     ├── modelling/ # скрипты моделлинга     
