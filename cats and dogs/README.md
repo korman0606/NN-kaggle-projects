@@ -1,24 +1,13 @@
-Структура
-credit_scoring/  
-├── src/      
-  -├── app/      
-    -├── antifraud/ # модуль антифрода      
-     ├── core/ # скрипты ядра      
-     ├── modelling/ # скрипты моделлинга     
-     └── scoring/ # скрипты скоринга    
-   └── config/ # конфигурации  
-## Структура проекта
+Структура  
 
-- `credit_scoring/`
-  - `src/`
-    - `app/`
-      - `antifraud/`
-      - `core/`
-      - `modelling/`
-      - `scoring/`
-    - `config/`
-  - `CONTRIBUTING.md`
-  - `README.md`
+├── credit_scoring/  
+└── ├── src/      
+    ├── ├── app/      
+    │   ├── ├── antifraud/ # модуль антифрода      
+    │   ├── ├── core/ # скрипты ядра      
+    │   ├── ├── modelling/ # скрипты моделлинга     
+    │   └── └── scoring/ # скрипты скоринга    
+    └── └── config/ # конфигурации  
 
 # Cats vs Dogs Classifier – 100% Accuracy on Kaggle
 
