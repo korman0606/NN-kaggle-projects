@@ -2,10 +2,10 @@
 
 credit_scoring/  
  │── src/  
- │   ├── app/  
- │   │   ├── antifraud/       # скрипты антифрода  
- │   │   ├── core/            # скрипты ядра  
- │   │   ├── modelling/       # скрипты моделлинга  
+ │   │── app/  
+ │   │   │── antifraud/       # скрипты антифрода  
+ │   │   │── core/            # скрипты ядра  
+ │   │   │── modelling/       # скрипты моделлинга  
  │   │   └── scoring/         # скрипты скоринга  
  │   └── config/              # конфигурации  
  │── CONTRIBUTING.md  
