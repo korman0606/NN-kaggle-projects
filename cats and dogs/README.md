@@ -7,7 +7,18 @@ credit_scoring/
      ├── modelling/ # скрипты моделлинга     
      └── scoring/ # скрипты скоринга    
    └── config/ # конфигурации  
+## Структура проекта
 
+- `credit_scoring/`
+  - `src/`
+    - `app/`
+      - `antifraud/`
+      - `core/`
+      - `modelling/`
+      - `scoring/`
+    - `config/`
+  - `CONTRIBUTING.md`
+  - `README.md`
 
 # Cats vs Dogs Classifier – 100% Accuracy on Kaggle
 
